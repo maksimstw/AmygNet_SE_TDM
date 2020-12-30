@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\Guangzhou AI\Attention_Project\.idea/dataSources/
+/../../../../../:\Guangzhou AI\Projects\Amy\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
