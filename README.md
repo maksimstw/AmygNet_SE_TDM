@@ -8,7 +8,8 @@ As one of the core technologies of deep learning, attention mechanism can effect
 ![amnetTDM](demo_images/amgnetTDM.png)
 
 ## Result
-Among the two attention mechanisms, SE net achieves a relatively higher accuracy for the segmentation of small structures, while TDM reduce the accuracy. This demonstrates that the improvements are indeed due to better feature refinement resulting from the locally attention module, and not simply from the increased capacity of the model.
+Among the two attention mechanisms, SE net achieves a relatively higher accuracy for the segmentation of small structures, while TDM reduce the accuracy. This demonstrates that the improvements are indeed due to better feature refinement resulting from the locally attention module, and not simply from the increased capacity of the model. </br>
+
 ![seresult](demo_images/SEresult.png)
 ![TDMresult](demo_images/TDMresult.png)
 ![amresult](demo_images/amygresult.png)
