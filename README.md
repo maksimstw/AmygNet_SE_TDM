@@ -1,5 +1,5 @@
 # AmygNet SE TDM
-As one of the core technologies of deep learning, attention mechanism can effectively improve the accuracy and efficiency of the segmentation of image structures. I implemented squeeze and excitation network and top-down modulation to improve the small objects' segmentation ability of the AmygNet. AmygNet ability on amygdaloid body identification and segmentation in brain MRIs was improved
+As one of the core technologies of deep learning, attention mechanism can effectively improve the accuracy and efficiency of the segmentation of image structures. I implemented squeeze and excitation network and top-down modulation to improve the small objects' segmentation ability of the AmygNet. AmygNet ability on amygdaloid body identification and segmentation in brain MRIs was improved.
 
 ## AmygNet SE
 ![amnetSE](demo_images/amgnetSE.png)
